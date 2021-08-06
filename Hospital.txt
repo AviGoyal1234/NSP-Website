@@ -1,0 +1,8 @@
+<!DOCSTYPE html>
+<html>
+<head>
+<title> Anonymous Hospital </title>
+</head>
+<body>
+</body>
+</html>
